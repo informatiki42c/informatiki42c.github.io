@@ -1,0 +1,16 @@
+.hover-image-scale{
+    display: inline-block;
+    overflow: hidden;
+}
+.hover-image-scale img{
+    transition: 1s;
+    display: block;
+}
+.hover-image-scale img:hover{
+    transform: scale(1.2);
+}
+.foto{
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+}

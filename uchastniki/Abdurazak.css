@@ -1,0 +1,15 @@
+.Table {
+    font-size: 30px;
+}
+
+.Table1 {
+    font-size: 30px;
+}
+
+.grey-image {
+    filter: grayscale(1);
+    transition: 1s;
+}
+.grey-image:hover {
+    filter: grayscale(0);
+}
